@@ -1,0 +1,194 @@
+2023-10-12 11:08:37,801 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-12 11:23:40,932 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-12 11:32:24,630 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-12 14:06:28,414 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-12 14:15:54,393 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-12 14:19:52,998 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-12 14:37:20,899 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-12 16:08:11,866 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-12 16:14:13,849 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-12 16:21:47,062 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-12 16:21:47,978 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-12 16:23:56,566 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-12 16:23:57,232 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-12 16:25:23,671 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-12 16:25:24,311 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-12 16:27:48,565 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-12 16:27:49,154 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-12 16:27:49,516 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-12 16:30:57,522 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-12 16:30:57,915 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-12 16:30:58,084 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-12 16:34:18,191 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-12 16:34:18,522 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-12 16:34:18,696 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-12 16:34:18,766 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-12 16:39:44,098 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-12 16:39:44,425 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-12 16:39:44,611 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-12 16:39:44,687 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-12 16:39:45,853 [main] INFO TestCases.TC_Login_001 - screenshot is taken
+2023-10-12 16:41:19,809 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-12 16:41:20,139 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-12 16:41:20,350 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-12 16:41:20,435 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-12 16:41:20,446 [main] INFO TestCases.TC_Login_001 - testcase is passed
+2023-10-12 16:44:13,671 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-12 16:44:14,011 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-12 16:44:14,188 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-12 16:44:14,257 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-12 16:44:14,273 [main] INFO TestCases.TC_Login_001 - testcase is passed
+2023-10-12 16:47:18,514 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-12 16:47:18,826 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-12 16:47:19,010 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-12 16:47:19,081 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-12 16:47:19,094 [main] INFO TestCases.TC_Login_001 - testcase is passed
+2023-10-12 19:49:05,829 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-12 19:49:06,775 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-12 19:49:07,321 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-12 19:49:07,599 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-12 19:49:07,657 [main] INFO TestCases.TC_Login_001 - testcase is passed
+2023-10-13 10:01:03,090 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-13 10:01:03,943 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-13 10:01:04,158 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-13 10:01:04,287 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-13 10:01:04,329 [main] INFO TestCases.TC_Login_001 - testcase is passed
+2023-10-13 12:21:12,085 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-13 12:21:14,275 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-13 12:21:14,442 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-13 12:21:14,742 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-13 12:21:14,752 [main] INFO TestCases.TC_Login_001 - testcase is passed
+2023-10-13 12:24:12,346 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-13 12:24:12,656 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-13 12:24:12,869 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-13 12:24:12,936 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-13 12:24:12,950 [main] INFO TestCases.TC_Login_001 - testcase is passed
+2023-10-13 12:38:14,367 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-13 12:38:14,795 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-13 12:38:14,952 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-13 12:38:15,022 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-13 12:38:15,031 [main] INFO TestCases.TC_Login_001 - testcase is passed
+2023-10-13 12:44:37,515 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-13 12:44:37,827 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-13 12:44:38,234 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-13 12:44:38,600 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-13 12:44:38,609 [main] INFO TestCases.TC_Login_001 - testcase is passed
+2023-10-13 12:49:09,879 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-13 12:49:10,373 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-13 12:49:10,566 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-13 12:49:10,641 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-13 12:49:11,270 [main] INFO TestCases.TC_Login_001 - screenshot is taken
+2023-10-16 10:47:14,175 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-16 10:47:15,173 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-16 10:47:15,526 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-16 10:47:15,681 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-16 10:47:16,074 [main] INFO TestCases.TC_Login_001 - screenshot is taken
+2023-10-16 12:49:36,312 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-16 12:49:37,103 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-16 12:49:37,503 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-16 12:49:38,003 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-16 12:49:38,719 [main] INFO TestCases.TC_Login_001 - screenshot is taken
+2023-10-16 12:50:28,951 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-16 12:50:29,457 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-16 12:50:29,880 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-16 12:50:30,036 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-16 12:50:30,076 [main] INFO TestCases.TC_Login_001 - testcase is passed
+2023-10-16 15:04:44,502 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-16 15:04:46,388 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-16 15:04:46,576 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-16 15:04:46,656 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-16 15:04:46,669 [main] INFO TestCases.TC_Login_001 - testcase is passed
+2023-10-16 15:39:28,393 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-16 15:39:29,028 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-16 15:39:29,440 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-16 15:39:29,602 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-16 15:39:29,626 [main] INFO TestCases.TC_Login_001 - testcase is passed
+2023-10-16 15:42:23,558 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-16 15:42:24,142 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-16 15:42:24,506 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-16 15:42:24,679 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-16 15:42:24,761 [main] INFO TestCases.TC_Login_001 - testcase is passed
+2023-10-16 15:50:27,274 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-16 15:50:27,815 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-16 15:50:28,219 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-16 15:50:28,403 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-16 15:50:28,427 [main] INFO TestCases.TC_Login_001 - testcase is passed
+2023-10-16 15:55:35,325 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-16 15:55:35,903 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-16 15:55:36,311 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-16 15:55:36,498 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-16 15:55:36,522 [main] INFO TestCases.TC_Login_001 - testcase is passed
+2023-10-16 16:00:14,125 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-16 16:00:14,670 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-16 16:00:15,035 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-16 16:00:15,211 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-16 16:00:15,246 [main] INFO TestCases.TC_Login_001 - testcase is passed
+2023-10-16 16:11:44,746 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-16 16:11:45,330 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-16 16:11:45,687 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-16 16:11:45,848 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-16 16:11:45,870 [main] INFO TestCases.TC_Login_001 - testcase is passed
+2023-10-17 14:19:49,403 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-17 14:19:50,707 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-17 14:19:51,105 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-17 14:19:51,257 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-17 14:19:51,278 [main] INFO TestCases.TC_Login_001 - testcase is passed
+2023-10-17 14:22:41,165 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-17 14:22:41,679 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-17 14:22:42,009 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-17 14:22:42,193 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-17 14:22:42,209 [main] INFO TestCases.TC_Login_001 - testcase is passed
+2023-10-18 10:06:45,487 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-18 10:06:50,395 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-18 10:06:50,869 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-18 10:06:51,811 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-18 10:06:51,822 [main] INFO TestCases.TC_Login_001 - testcase is passed
+2023-10-19 11:31:03,821 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-19 11:34:07,897 [main] INFO TestCases.TC_Login_001 - url is entered
+2023-10-19 11:34:08,499 [main] INFO TestCases.TC_Login_001 - email is entered
+2023-10-19 11:34:08,892 [main] INFO TestCases.TC_Login_001 - password is eneterd
+2023-10-19 11:34:09,075 [main] INFO TestCases.TC_Login_001 - login button clicking activity is completed
+2023-10-19 11:34:09,098 [main] INFO TestCases.TC_Login_001 - testcase is passed
+2023-10-20 09:26:18,569 [main] INFO TestCases.Testcase_001_login - url is entered
+2023-10-20 09:26:19,700 [main] INFO TestCases.Testcase_001_login - email is entered
+2023-10-20 09:26:20,171 [main] INFO TestCases.Testcase_001_login - password is eneterd
+2023-10-20 09:34:45,889 [main] INFO TestCases.Testcase_001_login - url is entered
+2023-10-20 09:34:46,444 [main] INFO TestCases.Testcase_001_login - email is entered
+2023-10-20 09:34:46,856 [main] INFO TestCases.Testcase_001_login - password is eneterd
+2023-10-20 09:44:24,383 [main] INFO TestCases.Testcase_001_login - url is entered
+2023-10-20 09:44:24,862 [main] INFO TestCases.Testcase_001_login - email is entered
+2023-10-20 09:44:25,222 [main] INFO TestCases.Testcase_001_login - password is eneterd
+2023-10-20 09:44:25,587 [main] INFO TestCases.Testcase_001_login - testcase is passed
+2023-10-20 09:48:16,326 [main] INFO TestCases.Testcase_001_login - url is entered
+2023-10-20 09:48:16,860 [main] INFO TestCases.Testcase_001_login - email is entered
+2023-10-20 09:48:17,259 [main] INFO TestCases.Testcase_001_login - password is eneterd
+2023-10-20 09:48:17,466 [main] INFO TestCases.Testcase_001_login - testcase is passed
+2023-10-20 09:57:03,101 [main] INFO TestCases.Testcase_001_login - url is entered
+2023-10-20 09:57:03,633 [main] INFO TestCases.Testcase_001_login - email is entered
+2023-10-20 09:57:03,996 [main] INFO TestCases.Testcase_001_login - password is eneterd
+2023-10-20 09:57:04,174 [main] INFO TestCases.Testcase_001_login - testcase is passed
+2023-10-20 10:01:23,649 [main] INFO TestCases.Testcase_001_login - url is entered
+2023-10-20 10:01:53,263 [main] INFO TestCases.Testcase_001_login - url is entered
+2023-10-20 10:28:48,632 [main] INFO TestCases.Testcase_001_login - url is enter
+2023-10-20 10:28:49,780 [main] INFO TestCases.Testcase_001_login - email is entered
+2023-10-20 10:28:50,188 [main] INFO TestCases.Testcase_001_login - email is password
+2023-10-20 10:28:52,896 [main] INFO TestCases.Testcase_001_login - testcase is passed
+2023-10-20 10:34:45,906 [main] INFO TestCases.Testcase_001_login - url is enter
+2023-10-20 10:34:46,545 [main] INFO TestCases.Testcase_001_login - email is entered
+2023-10-20 10:34:46,981 [main] INFO TestCases.Testcase_001_login - email is password
+2023-10-20 10:34:50,141 [main] INFO TestCases.Testcase_001_login - testcase is passed
+2023-10-20 10:39:59,401 [main] INFO TestCases.Testcase_001_login - url is enter
+2023-10-20 10:40:00,048 [main] INFO TestCases.Testcase_001_login - email is entered
+2023-10-20 10:40:00,450 [main] INFO TestCases.Testcase_001_login - password is entered
+2023-10-20 10:40:03,515 [main] INFO TestCases.Testcase_001_login - testcase is passed
+2023-10-20 10:43:47,498 [main] INFO TestCases.Testcase_001_login - url is enter
+2023-10-20 10:43:48,148 [main] INFO TestCases.Testcase_001_login - email is entered
+2023-10-20 10:43:48,571 [main] INFO TestCases.Testcase_001_login - password is entered
+2023-10-20 10:43:51,848 [main] INFO TestCases.Testcase_001_login - testcase is passed
+2023-10-20 14:16:45,412 [main] INFO TestCases.TC_LoginDataDriven_001 - user name provided
+2023-10-20 14:16:45,829 [main] INFO TestCases.TC_LoginDataDriven_001 - password provided button clickied
+2023-10-20 14:16:47,926 [main] INFO TestCases.TC_LoginDataDriven_001 - password provided
+2023-10-29 16:35:08,464 [main] INFO TestCases.Testcase_001_login - url is enter
+2023-10-29 16:35:09,054 [main] INFO TestCases.Testcase_001_login - email is entered
+2023-10-29 16:35:09,215 [main] INFO TestCases.Testcase_001_login - password is entered
+2023-10-29 16:35:18,103 [main] INFO TestCases.Testcase_001_login - testcase is passed
